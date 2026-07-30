@@ -1,6 +1,6 @@
 {
   "version": "2.0.1",
-  "minimum_version": "2.0.0",
+  "minimum_version": "2.0.1",
   "release_date": "2026-07-30",
   "download_url": "https://github.com/biaogeai/releases/releases/download/smart-assistant-v2.0.1/Smart.-Setup-2.0.1.exe",
   "changelog": "- 自动更新功能（静默安装）\n- 检查更新改为从 releases 仓库读取\n- 新增客服联系方式展示\n- 设置页面精简（移除日志和备份）"
