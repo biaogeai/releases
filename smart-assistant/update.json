@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1",
-  "minimum_version": "2.0.1",
+  "version": "3.0.0",
+  "minimum_version": "3.0.0",
   "release_date": "2026-07-30",
-  "download_url": "https://github.com/biaogeai/releases/releases/download/smart-assistant-v2.0.1/Smart.-Setup-2.0.1.exe",
-  "changelog": "- 自动更新功能（静默安装）\n- 检查更新改为从 releases 仓库读取\n- 新增客服联系方式展示\n- 设置页面精简（移除日志和备份）"
+  "download_url": "https://github.com/biaogeai/releases/releases/download/smart-assistant-v3.0.0/Smart.-Setup-3.0.0.exe",
+  "changelog": "Smart助手 v3.0.0 正式版\n\n- AI 对话：多场景智能助手\n- 客户管理、订单管理、文档库\n- 客户背调、定时任务\n- 自动更新功能\n- 多供应商 AI 模型管理\n- 系统信息展示\n- 客服联系方式"
 }
