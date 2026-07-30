@@ -1,7 +1,7 @@
 {
-  "minimum_version": "3.0.0",
-  "release_date": "2026-07-30",
   "changelog": "Smart助手 v3.0.0 正式版\n\n- 添加动态应用配置支持（品牌名称、图标、更新/客服链接可配置）\n- 修复已知问题",
-  "version": "3.0.0",
-  "download_url": "https://github.com/biaogeai/releases/releases/download/v3.0.0/Smart.-Setup-3.0.0.exe"
+  "release_date": "2026-07-30",
+  "minimum_version": "3.0.0",
+  "download_url": "https://github.com/biaogeai/releases/releases/download/v3.0.0/Smart.-Setup-3.0.0.exe",
+  "version": "3.0.0"
 }
