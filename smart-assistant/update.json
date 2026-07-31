@@ -1,7 +1,7 @@
 {
   "release_date": "2026-07-31",
   "minimum_version": "3.0.1",
-  "download_url": "https://github.com/biaogeai/releases/releases/download/v3.0.1/Smart助手-Setup-3.0.1.exe",
+  "changelog": "修复技能加载问题；技能系统改为从内存读取；修复公司列表hover高度跳动；删除公司弹窗样式优化",
   "version": "3.0.1",
-  "changelog": "修复技能加载问题；技能系统改为从内存读取；修复公司列表hover高度跳动；删除公司弹窗样式优化"
+  "download_url": "https://github.com/biaogeai/releases/releases/download/v3.0.1/Smart.-Setup-3.0.1.exe"
 }
