@@ -1,7 +1,7 @@
 {
-  "release_date": "2026-07-31",
-  "minimum_version": "3.0.1",
-  "changelog": "修复技能加载问题；技能系统改为从内存读取；修复公司列表hover高度跳动；删除公司弹窗样式优化",
-  "version": "3.0.1",
-  "download_url": "https://github.com/biaogeai/releases/releases/download/v3.0.1/Smart.-Setup-3.0.1.exe"
+  "version": "3.0.2",
+  "changelog": "新增首次使用新手引导与邮箱账户管理；Profiles 技能分组显示；对话记录删除确认弹窗优化；修复邮件技能与 himalaya CLI 冲突",
+  "release_date": "2026-08-05",
+  "download_url": "https://github.com/biaogeai/releases/releases/download/v3.0.2/Smart.-Setup-3.0.2.exe",
+  "minimum_version": "3.0.2"
 }
